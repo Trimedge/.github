@@ -9,6 +9,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# Welcome to Ageim Labs
+# Welcome to Trimedge
 
-We are an organization who are dedicated to provide a great user experience for our users.
+We create software & systems for various fields and uses. Our core philosophy is
+to create an organization that priotizes user experience in uisng software to make it
+more efficient and easier to use
+
+## Want to get involved?
+
+To get involved, just email the address provided in the organizations profile
