@@ -16,9 +16,9 @@ We welcome contributions from developers of all experience levels. To get starte
 - Follow our contribution guidelines in each project
 - Send a message to the email address visible at the top of our organization profile
 
-## Connect With Us
-- [Website] - Coming soon!
-- [Twitter/X] - Coming soon!
+## See some our projects!
+
+- [Taxidus](https://github.com/taxidus-project)
 
 ---
 
