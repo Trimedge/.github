@@ -3,11 +3,6 @@
 ## About Us
 We create applications that are tailored for customizability and ease of use, suitable for any purpose and accessible to everyone. 
 
-Our name "Trimedge" draws inspiration from aviation engineering—combining "trimming" and "edge" to reflect our commitment to precision, performance, and attention to detail in everything we build.
-
-## Our Mission
-To develop software that empowers users through intuitive design and flexible customization, making powerful tools accessible to all skill levels.
-
 ## Want to Get Involved?
 We welcome contributions from developers of all experience levels. To get started:
 
@@ -19,7 +14,3 @@ We welcome contributions from developers of all experience levels. To get starte
 ## See some our projects!
 
 - [Taxidus](https://github.com/taxidus-project)
-
----
-
-*"Precision in code, flexibility in use."*
