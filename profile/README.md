@@ -1,5 +1,3 @@
-# Welcome to Trimedge
-
 ## About Us
 We create applications that are tailored for customizability and ease of use, suitable for any purpose and accessible to everyone. 
 
