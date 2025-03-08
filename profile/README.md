@@ -8,9 +8,6 @@ Our name "Trimedge" draws inspiration from aviation engineering—combining "tri
 ## Our Mission
 To develop software that empowers users through intuitive design and flexible customization, making powerful tools accessible to all skill levels.
 
-## Current Projects
-*Check back soon for our upcoming projects!*
-
 ## Want to Get Involved?
 We welcome contributions from developers of all experience levels. To get started:
 
